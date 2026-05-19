@@ -1,0 +1,12 @@
+{
+  "refreshInterval": "5",
+  "alertThreshold": "2.5",
+  "peakStart": "16",
+  "peakEnd": "22",
+  "currency": "BDT",
+  "tariffRate": "0.22",
+  "notifications": true,
+  "darkMode": true,
+  "systemStatus": "online",
+  "updatedAt": "2026-05-18T16:33:02.991553+00:00"
+}
